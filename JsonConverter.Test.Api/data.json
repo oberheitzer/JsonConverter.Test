@@ -1,0 +1,8 @@
+{
+  "intProperty": 42,
+  "nullableIntProperty": null,
+  "doubleProperty": 0.5,
+  "nullableDoubleProperty": null,
+  "shortProperty": 3,
+  "nullableShortProperty": null
+}
